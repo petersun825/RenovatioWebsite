@@ -1,3 +1,16 @@
+Made website with bootstrap for furniture augmented reality startup idea.  
+![photo](https://github.com/petersun825/RenovatioWebsite/blob/master/Screen%20Shot%202018-04-22%20at%207.38.55%20PM.png)
+![photo](https://github.com/petersun825/RenovatioWebsite/blob/master/Screen%20Shot%202018-04-22%20at%207.39.13%20PM.png)
+
+
+
+
+
+
+
+
+
+
 # [Start Bootstrap - Landing Page](https://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
